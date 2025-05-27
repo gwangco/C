@@ -1,0 +1,6 @@
+﻿  insert.c
+C:\Users\HomePc\Desktop\c언어수업2\과제\과제1\insert.c(13,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\과제\과제1\insert.c(16,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\과제\과제1\insert.c(19,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\과제\과제1\insert.c(22,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  실습2.vcxproj -> C:\Users\HomePc\Desktop\c언어수업2\과제\과제1\x64\Debug\실습2.exe
