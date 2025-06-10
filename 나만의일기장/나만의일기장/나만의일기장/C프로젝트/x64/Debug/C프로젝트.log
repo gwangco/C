@@ -1,0 +1,25 @@
+﻿  diary_display.c
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_display.c(12,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_display.c(13,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  diary_io.c
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(8,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(57,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(94,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(98,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(113,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(114,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_io.c(125,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  diary_list.c
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_list.c(12,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_list.c(32,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  diary_menu.c
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\diary_menu.c(7,77): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.c
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\main.c(26,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\main.c(54,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  user_auth.c
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\user_auth.c(53,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\user_auth.c(103,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\user_auth.c(133,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  C프로젝트.vcxproj -> C:\Users\HomePc\Desktop\c언어수업2\2405028김광재 기말 C프로젝트\x64\Debug\C프로젝트.exe
